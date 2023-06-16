@@ -95,6 +95,7 @@ WSGI_APPLICATION = 'my_time.wsgi.application'
 #         'PORT': env("DATABASE_PORT"),
 #     }
 # }
+# abca
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
